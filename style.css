@@ -1,0 +1,132 @@
+/*comment no one will see*/
+body {
+	background-color:rgb(245, 200, 200);
+	color: white;
+	font-size: 25px;
+	font-family:helvetica;
+	background-image: url(https://images.unsplash.com/photo-1436891620584-47fd0e565afb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+p{
+	font-family:'Slabo 27px', serif;
+	font-weight:300;
+}
+
+
+#banner {
+	text-align: center;
+	background-image: url(https://images.unsplash.com/photo-1490199444786-9d1faf6fbeb8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=80);
+	background-size: cover;
+	font-size:40px;
+	padding: 10px;
+	color:white;
+	text-shadow:1px 1px 1px black;
+}
+
+#banner h1 {
+	font-size:60px;
+}
+
+#maleta {
+	color:white;
+	font-size:30px;
+	text-align: center;
+	background-image: url(https://images.unsplash.com/photo-1526318472351-c75fcf070305?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80);
+	background-size: cover;
+	padding: 10px;
+	text-shadow:1px 1px 1px black;
+}
+
+#main h2 {
+	font-size:60px;
+}
+
+#diamante {
+	color:white;
+	font-size:30px;
+	text-align: center;
+	background-image: url(https://images.unsplash.com/photo-1511118602416-edd2fc5a3f8c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1429&q=80);
+	background-size: cover;
+	padding: 10px;
+	text-shadow:1px 1px 1px black;
+}
+
+#corazon {
+	color:white;
+	font-size:30px;
+	text-align: center;
+	background-image: url(https://images.unsplash.com/photo-1513612254505-fb553147a2e8?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80);
+	background-size: cover;
+	padding: 10px;
+	text-shadow:1px 1px 1px black;
+}
+
+#laptop {
+	color:white;
+	font-size:30px;
+	text-align: center;
+	background-image: url(https://images.unsplash.com/photo-1543362906-acfc16c67564?ixlib=rb-1.2.1&auto=format&fit=crop&w=802&q=80);
+	background-size: cover;
+	padding: 10px;
+	text-shadow:1px 1px 1px black;
+}
+
+#footer {
+	background-color: white;
+	margin:20px;
+	padding:50px;
+}
+
+#listas {
+	color: pink;
+}
+
+#fottertext {
+	color:black;
+}
+
+.section {
+	padding: 50px;
+	text-align: center;
+	border-radius: 100px;
+    border: black 10px dotted;
+}
+
+.social {
+	color: pink;
+	font-size:100px;
+	padding:50px;
+	margin-top: 100px;
+}
+
+.social a:hover {
+ color: black;
+}
+
+
+
+h1 {font-family: 'Nanum Gothic', sans-serif;
+	color:pink;
+	font-size:100px;
+}
+
+h2 {font-family: 'Nanum Gothic', sans-serif;
+	color:D9D7DD;
+	font-size:40px;
+}
+
+div {
+    margin: 0px 0px 200px 0px;
+    padding: 10px 20px 30px 40px;
+}
+
+
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	color: black;
+}
